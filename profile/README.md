@@ -18,7 +18,7 @@ The CCP-NC community consists of academic and industrial research groups from ac
 
 ## Citing
 
-Any publications arising thanks to the support of CCP-NC should be acknowledged with text of the form:
+Any publications making use of CCP-NC software should be acknowledged with text of the form:
 > This work was facilitated by software tools (specifically X and Y) developed by the Collaborative Computing Project for NMR Crystallography, funded by EPSRC grant EP/T026642/1.
 
 
